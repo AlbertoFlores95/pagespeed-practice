@@ -10,3 +10,6 @@ This task will introduce you to the best practices to optimize web pages and mak
  - Run [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/) on the web page from the step above and make all the improvements suggested by the tool. 
  - Commit your changes and push them to GitHub.
  - Create a Pull Request to the original repository and explain in detail what changes were made and why they improve the page responsiveness and friendliness to mobile devices. 
+
+##Link
+[PageSpeed Excercise Page](https://albertoflores95.github.io/pagespeed-practice/)
